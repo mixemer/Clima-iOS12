@@ -2,7 +2,7 @@
 
 # Clima
 
-Solarized dark             |  Solarized Ocean
+Welcome page.              |  Check weather in other cities
 :-------------------------:|:-------------------------:
 ![](Clima-image1.png)      |  ![](Clima-image2.png)
 

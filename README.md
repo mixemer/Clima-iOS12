@@ -2,6 +2,11 @@
 
 # Clima
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](Clima-image1.png)      |  ![](Clima-image2.png)
+
+
 ## Our Goal
 
 It’s time to take our app development skills to the next level. We’re going to introduce you to the wonderful world of Cocoapods and open source libraries. These will power your apps to do incredible things without having to spend months coding up the functionality. Additionally, we’ll learn how to call Application Programming Interfaces (APIs) to grab data from websites. If you’re dreaming of making that Twitter-powered stock trading app then you’re about to get a lot closer to your goal!
